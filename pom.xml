@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>test</name>
-  <url>http://www.example.com</url>
+  <url>http://www.example.com222</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

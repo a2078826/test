@@ -1,4 +1,4 @@
-package com.chenwc;
+package com.kiki;
 
 /**
  * Hello world!

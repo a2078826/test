@@ -2,8 +2,10 @@
 target/
 
 # IDEA #
+out/
 .idea/
 *.iml
+MANIFEST.MF
 
 # Eclipse #
 .settings/
